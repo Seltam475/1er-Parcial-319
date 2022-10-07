@@ -1,0 +1,11 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\Pregunta 1\bin\Debug\Pregunta 1.exe.config
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.exe.config
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.exe
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.pdb
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.xml
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\obj\Debug\Pregunta_1.Form1.resources
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\obj\Debug\Pregunta_1.Resources.resources
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.vbproj.GenerateResource.Cache
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.exe
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.xml
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.pdb
