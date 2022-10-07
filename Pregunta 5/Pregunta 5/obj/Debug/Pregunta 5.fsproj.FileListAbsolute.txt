@@ -1,0 +1,10 @@
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\bin\Debug\Pregunta_5.exe.config
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\bin\Debug\Pregunta_5.XML
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\bin\Debug\Pregunta_5.exe
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\bin\Debug\Pregunta_5.pdb
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\bin\Debug\FSharp.Core.dll
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\bin\Debug\FSharp.Core.xml
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\bin\Debug\es\FSharp.Core.resources.dll
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\obj\Debug\Pregunta 5.fsprojResolveAssemblyReference.cache
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\obj\Debug\Pregunta_5.exe
+E:\Documents\UNIVERSIDAD---INFORMATICA\SEMESTRE 2-2022\INF - 319\Pregunta 5\Pregunta 5\obj\Debug\Pregunta_5.pdb
